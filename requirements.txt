@@ -48,3 +48,4 @@ pandas      # Tutorial #23 on Time-Series Prediction.
 
 tensorflow-text
 nltk
+tensorflow-probability
