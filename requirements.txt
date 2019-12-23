@@ -35,7 +35,7 @@ tensorflow		# CPU Version of TensorFlow.
 # Uncomment the relevant lines for the tutorials you want to run.
 
 # gym[atari]  # Tutorial #16 on Reinforcement Learning.
-# pandas      # Tutorial #23 on Time-Series Prediction.
+pandas      # Tutorial #23 on Time-Series Prediction.
 
 ################################################################
 # PrettyTensor was used as the builder API for several of the
