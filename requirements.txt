@@ -17,11 +17,11 @@
 # Basic packages used in many of the tutorials.
 
 numpy
-scipy
+# scipy
 jupyter
 matplotlib
-Pillow
-scikit-learn
+# Pillow
+# scikit-learn
 
 ################################################################
 # TensorFlow can be installed either as CPU or GPU versions.
@@ -46,6 +46,6 @@ pandas      # Tutorial #23 on Time-Series Prediction.
 
 ################################################################
 
-tensorflow-text
-nltk
-tensorflow-probability
+# tensorflow-text
+# nltk
+# tensorflow-probability
